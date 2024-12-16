@@ -28,7 +28,7 @@ class hero {
     }
 
 }
-let hero1 = new hero("jose", 23, "leo")
+let hero1 = new hero("jose", 23, "monge")
 
 hero1.atacar()
 
